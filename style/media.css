@@ -118,7 +118,7 @@
     }
 
     .under__header_text {
-        font-size: 25px;
+        font-size: 22px;
     }
 
     .content__btn {
@@ -127,7 +127,7 @@
     }
 }
 
-@media (max-width:324px) {
+@media (max-width:320px) {
 
     .under__header_text {
         font-size: 22px;
